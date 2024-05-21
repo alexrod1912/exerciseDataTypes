@@ -1,0 +1,14 @@
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/bin/Debug/net8.0/helloWorld
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/bin/Debug/net8.0/helloWorld.deps.json
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/bin/Debug/net8.0/helloWorld.runtimeconfig.json
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/bin/Debug/net8.0/helloWorld.dll
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/bin/Debug/net8.0/helloWorld.pdb
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/obj/Debug/net8.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/obj/Debug/net8.0/helloWorld.AssemblyInfoInputs.cache
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/obj/Debug/net8.0/helloWorld.AssemblyInfo.cs
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/obj/Debug/net8.0/helloWorld.csproj.CoreCompileInputs.cache
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/obj/Debug/net8.0/helloWorld.dll
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/obj/Debug/net8.0/refint/helloWorld.dll
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/obj/Debug/net8.0/helloWorld.pdb
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/obj/Debug/net8.0/helloWorld.genruntimeconfig.cache
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/obj/Debug/net8.0/ref/helloWorld.dll
