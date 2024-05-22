@@ -12,3 +12,4 @@
 /Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/obj/Debug/net8.0/helloWorld.pdb
 /Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/obj/Debug/net8.0/helloWorld.genruntimeconfig.cache
 /Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/obj/Debug/net8.0/ref/helloWorld.dll
+/Users/naomirodriguez/cSharpLaunchcodePractice/helloWorld/obj/Debug/net8.0/helloWorld.sourcelink.json
