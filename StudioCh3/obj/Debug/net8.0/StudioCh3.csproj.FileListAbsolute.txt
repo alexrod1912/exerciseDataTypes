@@ -1,0 +1,15 @@
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/bin/Debug/net8.0/StudioCh3
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/bin/Debug/net8.0/StudioCh3.deps.json
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/bin/Debug/net8.0/StudioCh3.runtimeconfig.json
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/bin/Debug/net8.0/StudioCh3.dll
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/bin/Debug/net8.0/StudioCh3.pdb
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/obj/Debug/net8.0/StudioCh3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/obj/Debug/net8.0/StudioCh3.AssemblyInfoInputs.cache
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/obj/Debug/net8.0/StudioCh3.AssemblyInfo.cs
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/obj/Debug/net8.0/StudioCh3.csproj.CoreCompileInputs.cache
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/obj/Debug/net8.0/StudioCh3.sourcelink.json
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/obj/Debug/net8.0/StudioCh3.dll
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/obj/Debug/net8.0/refint/StudioCh3.dll
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/obj/Debug/net8.0/StudioCh3.pdb
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/obj/Debug/net8.0/StudioCh3.genruntimeconfig.cache
+/Users/naomirodriguez/cSharpLaunchcodePractice/StudioCh3/obj/Debug/net8.0/ref/StudioCh3.dll
