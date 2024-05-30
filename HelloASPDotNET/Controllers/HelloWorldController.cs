@@ -11,7 +11,12 @@ public class HelloWorldController : Controller
       public IActionResult Index() 
       {
          string html = "<form method='post' action='/HelloWorld/Welcome'>" +
-         "<input type='text' name='name' />" +
+         "<input type='text' name='name' />" + 
+         "<select name='language'>" +
+         "<option value='English'  >English</option>" + 
+         "<option value='Spanish'  >Spanish</option>" + 
+         "<option value='French'  >French</option>" +
+         "</select>" +
          "<input type='submit' value='Greet Me!' />" +
          "</form>";
 
@@ -19,8 +24,15 @@ public class HelloWorldController : Controller
       }
     // 
     // GET: /HelloWorld/Welcome/ 
-    public IActionResult Welcome(string name)
+    public IActionResult Welcome(string name, string language )
     {
-        return Content ("<h1>Welcome to my app, " + name + "!</h1>", "text/html");
+        if (language == "English"){
+            return Content ("<h1>Welcome, " + name + "!</h1>", "text/html");
+
+        }else if( language == "Spanish"){
+            return Content ("<h1>Hola, " + name + "!</h1>", "text/html");
+        }else 
+            return Content ("<h1>Bonjour, " + name + "!</h1>", "text/html");
+
     }
 }
