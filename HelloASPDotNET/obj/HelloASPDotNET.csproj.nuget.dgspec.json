@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/naomirodriguez/cSharpLaunchcodePractice/HelloASPDotnet/HelloASPDotNET.csproj": {}
+    "/Users/naomirodriguez/cSharpLaunchcodePractice/HelloASPDotNET/HelloASPDotNET.csproj": {}
   },
   "projects": {
-    "/Users/naomirodriguez/cSharpLaunchcodePractice/HelloASPDotnet/HelloASPDotNET.csproj": {
+    "/Users/naomirodriguez/cSharpLaunchcodePractice/HelloASPDotNET/HelloASPDotNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/naomirodriguez/cSharpLaunchcodePractice/HelloASPDotnet/HelloASPDotNET.csproj",
+        "projectUniqueName": "/Users/naomirodriguez/cSharpLaunchcodePractice/HelloASPDotNET/HelloASPDotNET.csproj",
         "projectName": "HelloASPDotNET",
-        "projectPath": "/Users/naomirodriguez/cSharpLaunchcodePractice/HelloASPDotnet/HelloASPDotNET.csproj",
+        "projectPath": "/Users/naomirodriguez/cSharpLaunchcodePractice/HelloASPDotNET/HelloASPDotNET.csproj",
         "packagesPath": "/Users/naomirodriguez/.nuget/packages/",
-        "outputPath": "/Users/naomirodriguez/cSharpLaunchcodePractice/HelloASPDotnet/obj/",
+        "outputPath": "/Users/naomirodriguez/cSharpLaunchcodePractice/HelloASPDotNET/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/naomirodriguez/.nuget/NuGet/NuGet.Config"

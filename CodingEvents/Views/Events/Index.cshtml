@@ -1,0 +1,21 @@
+
+
+  
+
+
+<p>
+   <a asp-controller="Events" asp-action="Add">Add Event</a>
+</p>        
+
+
+
+<h1>Events</h1>
+
+<ul>
+    @foreach (var evt in ViewBag.events)
+    {
+        <li>@evt</li>
+    }
+</ul>
+
+<a href="/Events/Add">Add New Event</a>
