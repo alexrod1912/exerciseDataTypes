@@ -11,11 +11,23 @@
 
 <h1>Events</h1>
 
-<ul>
-    @foreach (var evt in ViewBag.events)
-    {
-        <li>@evt</li>
-    }
-</ul>
 
-<a href="/Events/Add">Add New Event</a>
+<table>
+   <tr>
+      <th>
+         Name
+      </th>
+      <th>
+         Description
+      </th>
+   </tr>
+   @foreach (KeyValuePair<string, string> evt in ViewBag.events)
+   {
+      <tr>
+         <td>@evt.Key</td>
+         <td>@evt.Value</td>
+      </tr>
+   }
+</table>
+
+<partial name="/Views/Shared/_LinkListPartial.cshtml" />

@@ -6,11 +6,11 @@ namespace CodingEvents.Controllers;
 
 public class EventsController : Controller{
 
-static private List<string> Events = new List<string>
+static private Dictionary<string, string> Events = new Dictionary<string, string>
         {
-            "Birthday",
-            "Christmas",
-            "Halloween"
+            {"Birthday", "In October"},
+            {"Christmas", "In December"},
+            {"Halloween", "At the end of october"}
         };
     
 [HttpGet]
@@ -34,10 +34,10 @@ public IActionResult Add()
 }
 
 [HttpPost]
-public IActionResult NewEvent (string name)
+public IActionResult NewEvent (string name, string description)
 {
    // Method code ...
-   Events.Add(name);
+   Events.Add(name, description);
    return Redirect("/Events");
 }
 

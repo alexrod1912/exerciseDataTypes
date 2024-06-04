@@ -1,4 +1,9 @@
 <form method="post" action="/Events/NewEvent">
+<label>Name</label>
    <input name="name" type="text" />
+<label>Description</label>
+   <input name="description" type="text" />
    <input type="submit" value="Add Event" />
 </form>
+
+<partial name="/Views/Shared/_LinkListPartial.cshtml" />
