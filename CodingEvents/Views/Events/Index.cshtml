@@ -21,12 +21,13 @@
          Description
       </th>
    </tr>
-   @foreach (KeyValuePair<string, string> evt in ViewBag.events)
+      @foreach (var evt in ViewBag.events)
    {
       <tr>
-         <td>@evt.Key</td>
-         <td>@evt.Value</td>
+         <td>@evt.Name</td>
+         <td>@evt.Description</td>
       </tr>
+      
    }
 </table>
 

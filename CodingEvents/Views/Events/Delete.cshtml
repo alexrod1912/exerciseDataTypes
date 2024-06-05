@@ -1,0 +1,18 @@
+@{
+    ViewData["Title"] = "Delete Events";
+}
+
+<h1>Delete Events</h1>
+
+<form method="post" action="/Events/Delete">
+    @foreach (var evt in ViewBag.events)
+    {
+        <div class="form-group">
+            <label for="event-@evt.Id">
+                <input type="checkbox" id="event-@evt.Id" name="eventIds" value="@evt.Id">
+                @evt.Name - @evt.Description
+            </label>
+        </div>
+    }
+    <button type="submit" class="btn btn-danger">Delete Selected Events</button>
+</form>
