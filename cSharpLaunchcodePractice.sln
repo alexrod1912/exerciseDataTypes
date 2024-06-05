@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudioCh3", "StudioCh3\Stud
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingEvents", "CodingEvents\CodingEvents.csproj", "{CC2DFCD4-2BA2-44FA-8D88-D6A6205D4336}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaDay", "SpaDay\SpaDay.csproj", "{B5B877B8-494F-4F92-A72C-9CC3E9CECC55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{CC2DFCD4-2BA2-44FA-8D88-D6A6205D4336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC2DFCD4-2BA2-44FA-8D88-D6A6205D4336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC2DFCD4-2BA2-44FA-8D88-D6A6205D4336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B877B8-494F-4F92-A72C-9CC3E9CECC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B877B8-494F-4F92-A72C-9CC3E9CECC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B877B8-494F-4F92-A72C-9CC3E9CECC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B877B8-494F-4F92-A72C-9CC3E9CECC55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
